@@ -23,7 +23,7 @@
     "openid": "^2.0.12"
   },
   "peerDependencies": {
-    "next": "15.4.7",
+    "next": ">=13.3.4",
     "next-auth": "^4"
   },
   "devDependencies": {
